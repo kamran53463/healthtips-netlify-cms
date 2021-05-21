@@ -11,6 +11,10 @@ tags:
   - Educational institutes in 12 districts across Sindh to remain closed till
     June 6
 ---
+```
+
+```
+
 A file photo shows students and teachers following coronavirus SOPs.
 
 Educational institutes in 12 districts of Sindh will remain closed till June 6, as the coronavirus positivity ratio in those districts is higher than 5%,   the Federal Education Ministry said on Friday.
